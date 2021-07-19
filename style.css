@@ -2,7 +2,7 @@ body {
     backgroung: white;
 }
 img {
-    align-items: center;
+    align: center;
 }
 h1 {
     text-align: center;
